@@ -82,7 +82,7 @@ stack-data==0.6.3
 starlette==0.50.0
 threadpoolctl==3.6.0
 tomlkit==0.13.3
-tornado==6.5.4
+tornado==6.5.5
 tqdm==4.67.1
 traitlets==5.14.3
 typer==0.21.1
